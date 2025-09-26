@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "nicholas-n-kurniawan/portfolio",
+    "data-repo": "nevan-kurniawan/portfolio",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

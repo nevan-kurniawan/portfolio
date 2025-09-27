@@ -2,6 +2,7 @@
 layout: page
 title: MoE-LoRA on Vision Transformers
 description: An implementation of LoRA parameters as MoE experts on the QKV matrices of ViT architectures.
+img: assets/img/1.jpg
 importance: 1
 category: Personal Projects
 ---

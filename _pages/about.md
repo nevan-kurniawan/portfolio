@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>West Jakarta, Indonesia</p>
     <p><a href="https://github.com/nevan-kurniawan"><i class="fab fa-github"></i> GitHub Profile</a></p>
-    <p><a href="www.linkedin.com/in/nevankurniawan"><i class="fab fa-linkedin"></i> LinkedIn Profile</a></p>
+    <p><a href="https:/linkedin.com/in/nevankurniawan"><i class="fab fa-linkedin"></i> LinkedIn Profile</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

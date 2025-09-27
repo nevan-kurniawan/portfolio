@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selection of my academic and personal projects.
 nav: true
 nav_order: 3
-display_categories: [Personal projects]
+display_categories: [Personal Projects]
 horizontal: false
 ---
 
